@@ -1,0 +1,14 @@
+body {
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+  margin: 0;
+  background: #f4f0e8;
+  color: #183f36;
+  font-family: Georgia, serif;
+}
+
+img {
+  width: min(12rem, 70vw);
+  height: auto;
+}
