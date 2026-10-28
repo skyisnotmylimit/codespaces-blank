@@ -1,0 +1,107 @@
+b94d9cd refs/heads/develop@{0}: merge advancedOperation: Merge made by the 'ort' strategy.
+519d197 refs/heads/master@{0}: merge develop: Merge made by the 'ort' strategy.
+519d197 HEAD@{0}: merge develop: Merge made by the 'ort' strategy.
+c93c80b HEAD@{1}: checkout: moving from develop to master
+b94d9cd HEAD@{2}: merge advancedOperation: Merge made by the 'ort' strategy.
+a71edca HEAD@{3}: checkout: moving from advancedOperation to develop
+f183941 refs/heads/advancedOperation@{0}: commit: Restore add message from grandparent
+f183941 HEAD@{4}: commit: Restore add message from grandparent
+43cd7b1 HEAD@{5}: checkout: moving from b8d1c137e5b042be508c108040209048cb174517 to advancedOperation
+b8d1c13 HEAD@{6}: checkout: moving from advancedOperation to HEAD~2
+43cd7b1 refs/heads/advancedOperation@{1}: commit: Add four-parameter addition
+43cd7b1 HEAD@{7}: commit: Add four-parameter addition
+68347b0 refs/heads/advancedOperation@{2}: commit: Add three-parameter addition
+68347b0 HEAD@{8}: commit: Add three-parameter addition
+b8d1c13 refs/heads/advancedOperation@{3}: commit: Add two-parameter addition message
+b8d1c13 HEAD@{9}: commit: Add two-parameter addition message
+a71edca refs/heads/advancedOperation@{4}: branch: Created from HEAD
+a71edca HEAD@{10}: checkout: moving from develop to advancedOperation
+a71edca HEAD@{11}: checkout: moving from otherOperation to develop
+65755fb refs/heads/otherOperation@{0}: rebase (finish): refs/heads/otherOperation onto a71edca17b705d5bed087bc1b918ad0759876e08
+d4d3967 refs/heads/otherOperation@{1}: commit: Add square root operation
+65755fb HEAD@{12}: rebase (finish): returning to refs/heads/otherOperation
+65755fb HEAD@{13}: rebase (squash): Add arithmetic operations and square root
+8ada605 HEAD@{14}: rebase (squash): # This is a combination of 3 commits.
+fedf067 HEAD@{15}: rebase (squash): # This is a combination of 2 commits.
+d90e02e HEAD@{16}: rebase (start): checkout develop
+d4d3967 HEAD@{17}: commit: Add square root operation
+ea48ff0 refs/heads/otherOperation@{2}: reset: moving to ea48ff0
+ea48ff0 HEAD@{18}: reset: moving to ea48ff0
+fad6b75 refs/heads/otherOperation@{3}: commit: Add temporary sqrtBad implementation
+fad6b75 HEAD@{19}: commit: Add temporary sqrtBad implementation
+ea48ff0 refs/heads/otherOperation@{4}: commit: Add multiplication operation
+ea48ff0 HEAD@{20}: commit: Add multiplication operation
+284b433 refs/heads/otherOperation@{5}: commit: Add division operation
+284b433 HEAD@{21}: commit: Add division operation
+d90e02e refs/heads/otherOperation@{6}: commit: Add subtraction operation
+d90e02e HEAD@{22}: commit: Add subtraction operation
+a71edca refs/heads/develop@{1}: commit: Add calculator base with addition
+a71edca refs/heads/otherOperation@{7}: branch: Created from HEAD
+a71edca HEAD@{23}: checkout: moving from develop to otherOperation
+a71edca HEAD@{24}: commit: Add calculator base with addition
+c93c80b refs/heads/master@{1}: commit: Add repository README
+b6de0e3 HEAD@{25}: checkout: moving from master to develop
+c93c80b HEAD@{26}: commit: Add repository README
+11f22f2 refs/heads/master@{2}: merge develop: Merge made by the 'ort' strategy.
+11f22f2 HEAD@{27}: merge develop: Merge made by the 'ort' strategy.
+e68b1fb HEAD@{28}: checkout: moving from develop to master
+b6de0e3 refs/heads/develop@{2}: merge page-styles-rebase: Fast-forward
+b6de0e3 refs/heads/page-styles-rebase@{0}: rebase (finish): refs/heads/page-styles-rebase onto ffe7c402916a1fcf379620503c990b021f4efe97
+b6de0e3 HEAD@{29}: merge page-styles-rebase: Fast-forward
+ffe7c40 HEAD@{30}: checkout: moving from page-styles-rebase to develop
+b6de0e3 HEAD@{31}: rebase (finish): returning to refs/heads/page-styles-rebase
+b6de0e3 HEAD@{32}: rebase (continue): Add second page stylesheet
+ffe7c40 refs/heads/develop@{3}: merge image-assets-rebase: Fast-forward
+ffe7c40 HEAD@{33}: rebase (start): checkout develop
+ffe7c40 HEAD@{34}: merge image-assets-rebase: Fast-forward
+faa55fb HEAD@{35}: checkout: moving from image-assets-rebase to develop
+faa55fb refs/heads/develop@{4}: commit: Update develop page title
+ffe7c40 refs/heads/image-assets-rebase@{0}: rebase (finish): refs/heads/image-assets-rebase onto faa55fb98124e232246ff61c828691a84e67f850
+ffe7c40 HEAD@{36}: rebase (finish): returning to refs/heads/image-assets-rebase
+ffe7c40 HEAD@{37}: rebase (pick): Reference second image on page
+a50ac84 HEAD@{38}: rebase (pick): Add second image asset
+faa55fb HEAD@{39}: rebase (start): checkout develop
+faa55fb HEAD@{40}: commit: Update develop page title
+3f97f1e refs/heads/page-styles-rebase@{1}: commit: Add second page stylesheet
+0fa898b HEAD@{41}: checkout: moving from page-styles-rebase to develop
+3f97f1e HEAD@{42}: commit: Add second page stylesheet
+fc71687 refs/heads/image-assets-rebase@{1}: commit: Reference second image on page
+0fa898b refs/heads/page-styles-rebase@{2}: branch: Created from HEAD
+0fa898b HEAD@{43}: checkout: moving from develop to page-styles-rebase
+0fa898b HEAD@{44}: checkout: moving from image-assets-rebase to develop
+fc71687 HEAD@{45}: commit: Reference second image on page
+0714491 refs/heads/image-assets-rebase@{2}: commit: Add second image asset
+0714491 HEAD@{46}: commit: Add second image asset
+0fa898b refs/heads/image-assets-rebase@{3}: branch: Created from HEAD
+0fa898b HEAD@{47}: checkout: moving from develop to image-assets-rebase
+0fa898b HEAD@{48}: checkout: moving from master to develop
+e68b1fb refs/heads/master@{3}: merge develop: Merge made by the 'ort' strategy.
+3b5b446 refs/heads/master@{4}: reset: moving to 3b5b446
+e68b1fb HEAD@{49}: merge develop: Merge made by the 'ort' strategy.
+3b5b446 HEAD@{50}: reset: moving to 3b5b446
+0fa898b refs/heads/master@{5}: Branch: renamed refs/heads/main to refs/heads/master
+0fa898b HEAD@{51}: Branch: renamed refs/heads/main to refs/heads/master
+0fa898b refs/heads/develop@{5}: commit (merge): Merge page styles
+0fa898b refs/heads/master@{6}: branch: Created from HEAD
+0fa898b HEAD@{53}: checkout: moving from develop to main
+0fa898b HEAD@{54}: commit (merge): Merge page styles
+2fa93ae refs/heads/develop@{6}: commit (merge): Merge image assets
+2fa93ae HEAD@{55}: commit (merge): Merge image assets
+26fb175 refs/heads/develop@{7}: commit: Add welcome text on develop
+26fb175 HEAD@{56}: commit: Add welcome text on develop
+9b8c999 refs/heads/page-styles@{0}: commit: Style landing page markup
+3b5b446 HEAD@{57}: checkout: moving from page-styles to develop
+9b8c999 HEAD@{58}: commit: Style landing page markup
+08c61da refs/heads/page-styles@{1}: commit: Add page stylesheet
+08c61da HEAD@{59}: commit: Add page stylesheet
+3b5b446 refs/heads/page-styles@{2}: branch: Created from HEAD
+3b5b446 HEAD@{60}: checkout: moving from develop to page-styles
+a4ff14e refs/heads/image-assets@{0}: commit: Reference image on landing page
+3b5b446 HEAD@{61}: checkout: moving from image-assets to develop
+a4ff14e HEAD@{62}: commit: Reference image on landing page
+acd8e51 refs/heads/image-assets@{1}: commit: Add image asset
+acd8e51 HEAD@{63}: commit: Add image asset
+3b5b446 refs/heads/image-assets@{2}: branch: Created from HEAD
+3b5b446 HEAD@{64}: checkout: moving from develop to image-assets
+3b5b446 refs/heads/develop@{8}: commit (initial): Add empty landing page
+3b5b446 HEAD@{65}: commit (initial): Add empty landing page
