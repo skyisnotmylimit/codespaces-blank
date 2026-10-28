@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Second Git task mark</title>
+  <rect width="160" height="160" rx="24" fill="#f7d8c8"/>
+  <circle cx="80" cy="80" r="40" fill="#e06b45"/>
+  <path d="M61 80h38M80 61v38" stroke="#fff" stroke-linecap="round" stroke-width="9"/>
+</svg>
